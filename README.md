@@ -8,3 +8,4 @@ Create the branch:
 git branch myfeaturebranch
 Checkout to that branch:
 git checkout myfeaturebranch
+Switched to a new branch 'new-branch-2'
