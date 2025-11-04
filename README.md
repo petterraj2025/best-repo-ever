@@ -8,3 +8,4 @@ Create the branch:
 git branch myfeaturebranch
 Checkout to that branch:
 git checkout myfeaturebranch
+check conflits during merge
