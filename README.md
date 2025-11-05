@@ -8,3 +8,4 @@ Create the branch:
 git branch myfeaturebranch
 Checkout to that branch:
 git checkout myfeaturebranch
+git checkout -b new-branch-1 TEST1 cPET
